@@ -15,7 +15,7 @@
 
 ## 🎯 Skills
 
-- C, C++, JAVA Programming Language
+- C, C++, HTML, CSS, JS, JAVA Programming Language
 - Web Development
 <!---
 ## 🌐 Socials:
@@ -56,8 +56,8 @@
 --->
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HIMANSHI UKEY&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviShankar-rs26&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHI UKEY&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshiukey&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshiukey&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshiukey&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## ✍️ Random Dev Quote
@@ -74,14 +74,10 @@
 
 ## 🌟 Profile Visits
 <div align="center">
-  
-   <img src="https://visitcount.itsvg.in/api?id=RaviShankar-rs26&icon=0&color=0" alt="Profile Visit Count">
-  
-  <br/>
+   <img src="blob:https://web.whatsapp.com/8065d38e-6728-435b-8e2d-fe0b274961a8">
+   <br/>
   <br/>
   <img src="https://github.com/user-attachments/assets/24b443ed-fcbb-40e2-9d00-e8ff1be13ece" alt="" width="300">
-
-
 </div>
 
 ## 
