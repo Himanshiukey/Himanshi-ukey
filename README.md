@@ -74,10 +74,10 @@
 
 ## 🌟 Profile Visits
 <div align="center">
-   <img src="blob:https://web.whatsapp.com/8065d38e-6728-435b-8e2d-fe0b274961a8">
+   <img src="">
    <br/>
   <br/>
-  <img src="https://github.com/user-attachments/assets/24b443ed-fcbb-40e2-9d00-e8ff1be13ece" alt="" width="300">
+  <img src="https://www.google.com/imgres?q=himanshi%20name%20signature%20ideas%20lovely%20signature%20handwriting%20font%20Himanshi%20ukey%20signature%20photo&imgurl=https%3A%2F%2Fsignature.freefire-name.com%2Fimg.php%3Ff%3D12%26t%3DHimanshi&imgrefurl=https%3A%2F%2Fsignature.freefire-name.com%2Fs%2Fhimanshi&docid=mt30Pqj8Nz_wIM&tbnid=Nms0asMk4tIi9M&vet=12ahUKEwiDj96K__CLAxWpZvUHHS5XAF0QM3oECHYQAA..i&w=800&h=300&hcb=2&ved=2ahUKEwiDj96K__CLAxWpZvUHHS5XAF0QM3oECHYQAA" alt="" width="300">
 </div>
 
 ## 
